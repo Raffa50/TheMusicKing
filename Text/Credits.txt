@@ -1,0 +1,18 @@
+[credits]
+\{\{The Music King (DEMO)
+Incomplete version
+check for updates!
+
+\{\{CREDITS
+
+\{Created by
+\Cffff00ffAldrigo Raffaele
+
+\{Coding by
+\cffff00ffAldrigo Raffaele
+
+[timeline]
+2.00::haldo
+3.24:puts("This is a credits test.")
+[settings]
+line_height = 32
